@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  guoziyuan
+//
+//  Created by aibaimm on 2017/8/28.
+//  Copyright © 2017年 guoziyuan. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+//#import "guoziyuan-Swift.h"
+
+#define greenColorOC [UIColor colorWithRed:4/225.0 green:255/255.0 blue:0/255.0 alpha:1]
+#define blackColorOC [UIColor colorWithRed:50/225.0 green:50/255.0 blue:50/255.0 alpha:1]
+//#define IOS7_OR_LATER ([[[UIDevice currentDevice] systemVersion] doubleValue] >= 7.0)
+//#define IOS8_OR_LATER ([[[UIDevice currentDevice] systemVersion] doubleValue] >= 8.0)
+//#define IOS9_OR_LATER ([[[UIDevice currentDevice] systemVersion] doubleValue] >= 9.0)
+//#define SCREEN_SCALE [UIScreen mainScreen].scale
+//#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+//#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+//#define LINE_HEIGHT 0.5
+//#ifdef DEBUG
+//#define DLog( s, ... ) NSLog( @"<%p %@:%d (%@)> %@", self, [[NSString stringWithUTF8String:__FILE__] lastPathComponent], __LINE__,  NSStringFromSelector(_cmd), [NSString stringWithFormat:(s), ##__VA_ARGS__] )
+//#else
+//#define DLog( s, ... )
+//#endif
+
+
+
+

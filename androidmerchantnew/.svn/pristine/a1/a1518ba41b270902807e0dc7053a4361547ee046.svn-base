@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_logistics_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\order_logistics_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_index_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\list_index_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_code_confirm_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\home_code_confirm_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_code_validate_success.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\home_code_validate_success.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistical_fragment.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\statistical_fragment.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_player.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\image_player.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zxing_capture.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\activity_zxing_capture.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\financial_point_list_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\financial_point_list_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wuliu_detail.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\wuliu_detail.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistical_list_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\statistical_list_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_order_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\list_order_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\goods_detail_part.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\goods_detail_part.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistical_goods_detail_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\statistical_goods_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadingprogressdialog.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\loadingprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\statistical_code_detail_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\statistical_code_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_content.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\tab_content.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_fragment.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\order_fragment.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_delivery_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\order_delivery_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\financial_wallet_list_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\financial_wallet_list_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_list_header.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\drop_down_list_header.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_daodianfu_item.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\list_daodianfu_item.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\financial_fragment.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\financial_fragment.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page_fragment.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\home_page_fragment.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\navlayout.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\navlayout.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base_nav.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\activity_base_nav.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drop_down_list_footer.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\drop_down_list_footer.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_password_activity.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\src\\main\\res\\layout\\home_password_activity.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\aibaimm_source_code\\androidserver2016\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    }
+]

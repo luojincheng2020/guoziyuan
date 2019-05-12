@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="MessageTitleViewCell" rowHeight="45" id="aaf-sK-BjJ" customClass="MessageTitleViewCell" customModule="guoziyuan" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="aaf-sK-BjJ" id="5SC-bJ-157">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="留言" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hLZ-S8-I1h">
+                        <rect key="frame" x="10" y="15" width="40" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="39Z-OR-9M2"/>
+                            <constraint firstAttribute="width" constant="40" id="Cma-4y-eGh"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F3m-kU-24V">
+                        <rect key="frame" x="10" y="48" width="300" height="1"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="300" id="79g-JQ-ZmG"/>
+                            <constraint firstAttribute="height" constant="1" id="Njr-np-gLF"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="请输入您的留言" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="T16-ms-0rL">
+                        <rect key="frame" x="55" y="10" width="255" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="iJt-Ot-E1P"/>
+                            <constraint firstAttribute="width" constant="255" id="teh-rK-OBk"/>
+                        </constraints>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits"/>
+                    </textField>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="T16-ms-0rL" firstAttribute="centerY" secondItem="5SC-bJ-157" secondAttribute="centerY" id="N9U-tg-NCM"/>
+                    <constraint firstItem="F3m-kU-24V" firstAttribute="leading" secondItem="5SC-bJ-157" secondAttribute="leadingMargin" constant="2" id="UCN-6f-8vb"/>
+                    <constraint firstItem="hLZ-S8-I1h" firstAttribute="leading" secondItem="5SC-bJ-157" secondAttribute="leadingMargin" constant="2" id="Xl3-Ot-zNb"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="F3m-kU-24V" secondAttribute="trailing" constant="2" id="a8X-lw-8fj"/>
+                    <constraint firstItem="hLZ-S8-I1h" firstAttribute="centerY" secondItem="5SC-bJ-157" secondAttribute="centerY" id="od7-S4-ilP"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="F3m-kU-24V" secondAttribute="bottom" constant="-7" id="qrq-sx-o02"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="T16-ms-0rL" secondAttribute="trailing" constant="2" id="xRb-1Y-NxM"/>
+                    <constraint firstItem="T16-ms-0rL" firstAttribute="leading" secondItem="5SC-bJ-157" secondAttribute="leadingMargin" constant="47" id="zFL-qB-vvb"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="detailTextField" destination="T16-ms-0rL" id="tnf-8s-2YS"/>
+                <outlet property="height" destination="Njr-np-gLF" id="cAc-0D-NlR"/>
+                <outlet property="labelLine" destination="F3m-kU-24V" id="TO5-cx-MWu"/>
+                <outlet property="titleLabel" destination="hLZ-S8-I1h" id="PlU-ZG-QmX"/>
+            </connections>
+            <point key="canvasLocation" x="23" y="-8.5"/>
+        </tableViewCell>
+    </objects>
+</document>

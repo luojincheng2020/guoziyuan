@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+       android:id="@+id/tx_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="优惠券: "
+        android:textColor="#000000" />
+
+
+    <RelativeLayout
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tx_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6600"
+            android:textColor="#000000" />
+        <TextView
+            android:id="@+id/tx_starttime"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上线日期"
+            android:textColor="#999999" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_marginTop="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+           android:id="@+id/tx_t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="已销售: "
+            android:textColor="#000000" />
+        <TextView
+            android:id="@+id/tx_yixiaofei"
+            android:layout_toRightOf="@+id/tx_t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="#ff537b" />
+        <TextView
+            android:id="@+id/tx_status_tj"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="销售中"
+            android:textColor="#ff537b" />
+
+    </RelativeLayout>
+
+</LinearLayout>

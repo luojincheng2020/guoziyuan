@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:2:1-146:12
+	package
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:15:5-17:41
+MERGED from [org.xutils:xutils:3.3.32] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.32\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:17:9-38
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:16:9-35
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:25:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:27:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:28:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:29:22-63
+application
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:33:5-144:19
+MERGED from [org.xutils:xutils:3.3.32] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.32\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] D:\aibaimm_source_code\androidserver2016\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:41:9-31
+	android:supportsRtl
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:39:9-35
+	android:hardwareAccelerated
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:37:9-43
+	android:allowBackup
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:36:9-35
+	android:icon
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:40:9-43
+	android:persistent
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:38:9-34
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:35:9-52
+meta-data#BUG_HD_SDK_GENERAL_KEY
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:44:9-46:64
+	android:value
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:45:13-50
+activity#com.abmm.sh.abmm.activity.Base.LoginActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:49:9-61:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:51:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:58:27-74
+activity#com.abmm.sh.abmm.activity.Base.BaseTabHostActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:68:9-75:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:73:13-49
+	android:windowSoftInputMode
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:71:13-64
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:72:13-45
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:70:13-62
+activity#com.abmm.sh.abmm.activity.Base.BaseActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:77:9-83:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:81:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:80:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:79:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:78:13-55
+activity#com.abmm.sh.abmm.activity.Home.CodeConfirmResultActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:85:9-91:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:89:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:88:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:86:13-68
+activity#com.abmm.sh.abmm.activity.Home.ModifyPasswordActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:93:9-99:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:97:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:96:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:94:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:95:13-65
+activity#com.abmm.sh.abmm.activity.Home.CodeValidateSuccessActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:101:9-107:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:105:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:104:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:102:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:103:13-70
+activity#com.abmm.sh.abmm.activity.Order.DeliveryActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:113:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:112:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:110:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:111:13-60
+activity#com.abmm.sh.abmm.activity.Order.LogisticsActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:116:9-122:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:120:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:119:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:117:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:118:13-61
+activity#com.abmm.sh.abmm.activity.Statistical.CodeDetailActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:123:9-129:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:127:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:126:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:124:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:125:13-68
+activity#com.abmm.sh.abmm.activity.Statistical.GoodsDetailActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:130:9-136:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:134:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:133:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:131:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:132:13-69
+activity#com.abmm.sh.abmm.zxing.CaptureActivity
+ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:137:9-143:20
+	android:screenOrientation
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:141:13-49
+	android:configChanges
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:140:13-48
+	android:theme
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:138:13-47
+	android:name
+		ADDED from D:\aibaimm_source_code\androidserver2016\app\src\main\AndroidManifest.xml:139:13-50

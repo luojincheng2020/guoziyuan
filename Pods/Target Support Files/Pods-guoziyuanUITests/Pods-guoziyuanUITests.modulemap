@@ -1,0 +1,6 @@
+framework module Pods_guoziyuanUITests {
+  umbrella header "Pods-guoziyuanUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
